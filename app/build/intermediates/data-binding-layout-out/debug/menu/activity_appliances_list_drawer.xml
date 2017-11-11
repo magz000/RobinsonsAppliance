@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:title="Appliances">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/home"-->
+                <!--android:icon="@drawable/ic_tv"-->
+                <!--android:title="Televisions" />-->
+            <!--<item-->
+                <!--android:id="@+id/audio_players"-->
+                <!--android:icon="@drawable/ic_volume"-->
+                <!--android:title="Audio-Video Players" />-->
+
+            <!--<item-->
+                <!--android:id="@+id/home_appliances"-->
+                <!--android:icon="@drawable/ic_home"-->
+                <!--android:title="Home Appliances" />-->
+
+            <!--<item-->
+                <!--android:id="@+id/kitchen_appliances"-->
+                <!--android:icon="@drawable/ic_color_fill"-->
+                <!--android:title="Kitchen Appliances" />-->
+
+            <!--<item-->
+                <!--android:id="@+id/gadgets"-->
+                <!--android:icon="@drawable/ic_phone"-->
+                <!--android:title="Gadgets" />-->
+
+        <!--</menu>-->
+    <!--</item>-->
+    <group android:id="@+id/group_item_1"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_tv"
+            android:title="Appliances" />
+    </group>
+
+
+
+    <group android:id="@+id/group_item_2"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/wishlist"
+            android:icon="@drawable/ic_gift"
+            android:title="Wishlist" />
+
+        <item
+            android:id="@+id/compare"
+            android:icon="@drawable/ic_compare"
+            android:title="Compare" />
+
+        <item
+            android:id="@+id/scan"
+            android:icon="@drawable/ic_center_focus"
+            android:title="Scan Items" />
+
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/ic_call"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/store"
+            android:icon="@drawable/ic_store"
+            android:title="Store Directory" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_sign_out"
+            android:title="Logout" />
+    </group>
+
+</menu>

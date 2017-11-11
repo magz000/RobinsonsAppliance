@@ -1,0 +1,200 @@
+
+                                                        
+
+    <RelativeLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" android:tag="layout/fragment_application_details_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <Button
+            android:id="@+id/up"
+            android:layout_width="100dp"
+            android:layout_height="10dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/up" />
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:background="#83ffffff"
+                android:foreground="?attr/selectableItemBackground"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="3dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+
+                    <!--<android.support.v7.widget.RecyclerView-->
+                    <!--android:id="@+id/recycler_view"-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="match_parent"-->
+                    <!--/>-->
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+
+                        <ImageView
+                            android:id="@+id/product_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            android:background="@color/lightestGray"
+                            android:padding="5dp" />
+
+                        <TextView
+                            android:id="@+id/perc_discount"
+                            android:layout_width="90dp"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_marginTop="10dp"
+                            android:background="@color/red"
+                            android:gravity="center"
+                            android:paddingBottom="10dp"
+                            android:paddingTop="10dp"
+                            android:text="50% OFF"
+                            android:textColor="@color/white"
+                            android:textSize="18dp" />
+
+
+                    </RelativeLayout>
+
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Samsung 43 Basic LED TV 43K5100A"
+                        android:textSize="18dp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                        <TextView
+                            android:id="@+id/price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Php 50,099.75"
+                            android:textColor="@color/light_grey"
+                            android:textSize="16dp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/actual_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Php 28,000.00"
+                            android:textColor="@color/green"
+                            android:textSize="16dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/specs"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_horizontal"
+                        android:text="43 Screen\nPicture Engine, HyperReal Engine\nWide Color Enhancer Plus\n2x HDMI, 1x USB\nLouvre Front Design; Firing Speakers" />
+
+
+
+                    <TextView
+                        android:id="@+id/nearest"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Nearest Store: Robinsons Galleria"
+                        android:textSize="11dp" />
+
+
+                    <TextView
+                        android:id="@+id/distance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Distance: 3.2 km Time: 40 mins"
+                        android:textSize="10dp" />
+
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:layout_alignParentBottom="true">
+
+                            <Button
+                                android:id="@+id/addCompare"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:background="@drawable/button_add_favorite"
+                                android:paddingLeft="10dp"
+                                android:paddingRight="10dp"
+                                android:text="Add to Compare"
+                                android:textColor="@color/white" />
+
+                            <Button
+                                android:id="@+id/addWishlist"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="1"
+                                android:background="@drawable/button_add_favorite"
+                                android:paddingLeft="10dp"
+                                android:paddingRight="10dp"
+                                android:text="Add to Wishlist"
+                                android:textColor="@color/white" />
+
+                        </LinearLayout>
+
+
+                    </RelativeLayout>
+
+
+
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+
+        </RelativeLayout>
+
+
+        <Button
+            android:id="@+id/down"
+            android:layout_width="100dp"
+            android:layout_height="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/down" />
+
+    </RelativeLayout>
+
+
+         

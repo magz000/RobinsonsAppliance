@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f69c285c918c35279e4fb1fb41dc0001\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\c863b009a70367d55beb3451730a32d1\AndroidManifest.xml:17:1-26:12
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\fc9b6d9d8905065a8b390c69d2fc7932\AndroidManifest.xml:2:1-10:12
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\viewstate-2.0.1.aar\38e2bee11dbba0c7973d3c7b4538907d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\mvp-2.0.1.aar\d01b0d830f6fc0c714da6bb1f7c8038c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.3.aar\9decbc46adc10524682227c230f0a142\AndroidManifest.xml:2:1-12:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\7b10e25de19dc1f8afebaf3ed46b3a2b\AndroidManifest.xml:2:1-13:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.2.6.aar\caa5b40b55078d4e79a5cebb25fe75ae\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\73ddc2b6c85f09828d2d4063b678bd6b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:17:1-57:12
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\dc5ef2e5f4f65ee19eb07a62954a3a85\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:16:1-28:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7bdfc827fa5bac6e17a17cc0d40ad1a7\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\cb1149e9d498a612e16e4e9b797a812f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\77c13f221d6f8ad8658a2ee35da366de\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.support:wearable:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\wearable-1.4.0.aar\2fed28dcdd7932260af2ba3af8bbbdd3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\view-pager-transforms-1.2.32.aar\17819c01f5295d3772db5c57bd84f10b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb2f2902a0cdf92931054c639ab37453\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:17:1-31:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\a03ba3416705dcf15fa9629eccf2773f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4828f5d7d8c6efbd2d147b7bbde90030\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:1-96:12
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:5:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:23:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:8:22-76
+uses-feature#android.hardware.camera
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:10:5-60
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:26:5-28:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:26:5-28:36
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:11:5-13:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:34:5-36:36
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:34:5-36:36
+	android:required
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:12:9-57
+application
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:15:5-94:19
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\viewstate-2.0.1.aar\38e2bee11dbba0c7973d3c7b4538907d\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\viewstate-2.0.1.aar\38e2bee11dbba0c7973d3c7b4538907d\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\mvp-2.0.1.aar\d01b0d830f6fc0c714da6bb1f7c8038c\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\mvp-2.0.1.aar\d01b0d830f6fc0c714da6bb1f7c8038c\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\7b10e25de19dc1f8afebaf3ed46b3a2b\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\7b10e25de19dc1f8afebaf3ed46b3a2b\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\73ddc2b6c85f09828d2d4063b678bd6b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\73ddc2b6c85f09828d2d4063b678bd6b\AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:47:5-55:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:47:5-55:19
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\dc5ef2e5f4f65ee19eb07a62954a3a85\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\dc5ef2e5f4f65ee19eb07a62954a3a85\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:27:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7bdfc827fa5bac6e17a17cc0d40ad1a7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7bdfc827fa5bac6e17a17cc0d40ad1a7\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\cb1149e9d498a612e16e4e9b797a812f\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\cb1149e9d498a612e16e4e9b797a812f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\77c13f221d6f8ad8658a2ee35da366de\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\77c13f221d6f8ad8658a2ee35da366de\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.support:wearable:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\wearable-1.4.0.aar\2fed28dcdd7932260af2ba3af8bbbdd3\AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.support:wearable:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\wearable-1.4.0.aar\2fed28dcdd7932260af2ba3af8bbbdd3\AndroidManifest.xml:8:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb2f2902a0cdf92931054c639ab37453\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb2f2902a0cdf92931054c639ab37453\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:20:9-43
+	android:icon
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:18:9-38
+	android:allowBackup
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:16:9-32
+activity#com.tip.robinsonsappliances.ui.Scan.MainActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:23:9-27:59
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:25:13-39
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:24:13-49
+activity#com.tip.robinsonsappliances.ui.Appliances.list.AppliancesListActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:30:13-49
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:29:13-70
+activity#com.tip.robinsonsappliances.ui.Appliances.details.AppliancesDetailActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:36:9-39:52
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:38:13-47
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:37:13-75
+activity#com.tip.robinsonsappliances.ui.Compare.CompareActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:40:9-44:59
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:42:13-36
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:41:13-55
+activity#com.tip.robinsonsappliances.ui.Wishlist.WishlistActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:45:9-49:59
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:46:13-57
+activity#com.tip.robinsonsappliances.ui.Store.StoreActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:50:9-54:59
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:52:13-44
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:51:13-51
+activity#com.tip.robinsonsappliances.ui.Login.LoginActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:55:9-61:20
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:56:13-51
+activity#com.tip.robinsonsappliances.app.AnyOrientationCaptureActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:62:9-65:52
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:65:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:64:13-47
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:63:13-62
+activity#com.tip.robinsonsappliances.ui.ContactUs.ContactUsActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:66:9-68
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:66:19-65
+activity#com.tip.robinsonsappliances.ui.Tabbed.activity.TabbedActivity
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:68:9-79:20
+	android:screenOrientation
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:72:13-56
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:69:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:74:13-78:29
+action#android.intent.action.MAIN
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:77:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:89:9-91:55
+	android:value
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:91:13-52
+	android:name
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml:90:13-58
+uses-sdk
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f69c285c918c35279e4fb1fb41dc0001\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\adapters-1.3.1.aar\f69c285c918c35279e4fb1fb41dc0001\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\c863b009a70367d55beb3451730a32d1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\library-1.3.1.aar\c863b009a70367d55beb3451730a32d1\AndroidManifest.xml:22:5-24:41
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\fc9b6d9d8905065a8b390c69d2fc7932\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:2.2.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\realm-android-library-2.2.1.aar\fc9b6d9d8905065a8b390c69d2fc7932\AndroidManifest.xml:6:5-8:41
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\viewstate-2.0.1.aar\38e2bee11dbba0c7973d3c7b4538907d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\viewstate-2.0.1.aar\38e2bee11dbba0c7973d3c7b4538907d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\mvp-2.0.1.aar\d01b0d830f6fc0c714da6bb1f7c8038c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\mvp-2.0.1.aar\d01b0d830f6fc0c714da6bb1f7c8038c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.3.aar\9decbc46adc10524682227c230f0a142\AndroidManifest.xml:8:5-10:41
+MERGED from [com.thoughtbot:expandablerecyclerview:1.3] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\expandablerecyclerview-1.3.aar\9decbc46adc10524682227c230f0a142\AndroidManifest.xml:8:5-10:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\7b10e25de19dc1f8afebaf3ed46b3a2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialsearchview-1.4.0.aar\7b10e25de19dc1f8afebaf3ed46b3a2b\AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.2.6.aar\caa5b40b55078d4e79a5cebb25fe75ae\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.6] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-animators-2.2.6.aar\caa5b40b55078d4e79a5cebb25fe75ae\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\73ddc2b6c85f09828d2d4063b678bd6b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\73ddc2b6c85f09828d2d4063b678bd6b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:19:5-21:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\dc5ef2e5f4f65ee19eb07a62954a3a85\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\dc5ef2e5f4f65ee19eb07a62954a3a85\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:26:5-42
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7bdfc827fa5bac6e17a17cc0d40ad1a7\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7bdfc827fa5bac6e17a17cc0d40ad1a7\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\cb1149e9d498a612e16e4e9b797a812f\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\cb1149e9d498a612e16e4e9b797a812f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\77c13f221d6f8ad8658a2ee35da366de\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-wearable-9.4.0.aar\77c13f221d6f8ad8658a2ee35da366de\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.support:wearable:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\wearable-1.4.0.aar\2fed28dcdd7932260af2ba3af8bbbdd3\AndroidManifest.xml:4:5-6:41
+MERGED from [com.google.android.support:wearable:1.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\wearable-1.4.0.aar\2fed28dcdd7932260af2ba3af8bbbdd3\AndroidManifest.xml:4:5-6:41
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\view-pager-transforms-1.2.32.aar\17819c01f5295d3772db5c57bd84f10b\AndroidManifest.xml:23:5-25:41
+MERGED from [com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\view-pager-transforms-1.2.32.aar\17819c01f5295d3772db5c57bd84f10b\AndroidManifest.xml:23:5-25:41
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb2f2902a0cdf92931054c639ab37453\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\eb2f2902a0cdf92931054c639ab37453\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:21:5-23:54
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\a03ba3416705dcf15fa9629eccf2773f\AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\relinker-1.2.2.aar\a03ba3416705dcf15fa9629eccf2773f\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4828f5d7d8c6efbd2d147b7bbde90030\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4828f5d7d8c6efbd2d147b7bbde90030\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		ADDED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Backup\Robinsons Appliance\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\70ec50a2af4ba55847576475193ad749\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\01b7352f8dc851c775224f12d11f45b9\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\89f16ed056b9fdb5ec9839797fc5fd06\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\30f602caf9635df16fafed19d2180908\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\71d0722a535656395828b326f2e226fb\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\462e3521ceb6152b8dacbce658894e6b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\c4311f3eb0d1c81491dc1203588f75d5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4828f5d7d8c6efbd2d147b7bbde90030\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\4828f5d7d8c6efbd2d147b7bbde90030\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\9851a5c8fca951d73b570d5161205e11\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\411a713a353ae498eed2854f2bac4639\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\b9c91a8760ffa2300d9caeb0ee3b76b8\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\a715971c525f352213981222326385e0\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\4de83fd0952901a0787fcbdfe2685810\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:30:9-53
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:37:5-39:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:39:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:38:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:40:5-42:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:42:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:41:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:43:5-45:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:45:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:44:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:48:9-54:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:51:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:50:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:52:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:54:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:53:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.0.2] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.0.2.aar\a3cbdb84563a3158cb3a2704512a6f11\AndroidManifest.xml:49:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\7c9e8d94c0e2421981700317a40d0387\AndroidManifest.xml:24:8-31
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\1101e7cc463f2e5030889537495d6de9\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\10e080e3899483a516d37464ba1eb4d3\AndroidManifest.xml:22:13-58

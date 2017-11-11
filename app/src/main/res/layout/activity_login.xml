@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="user"
+            type="com.tip.robinsonsappliances.models.data.User" />
+
+        <variable
+            name="view"
+            type="com.tip.robinsonsappliances.ui.Login.LoginView" />
+    </data>
+
+    <LinearLayout
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#efefef"
+        android:baselineAligned="false"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:context="com.tip.deptreceiving.ui.Login.LoginActivity">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingTop="50dp">
+
+                <ImageView
+                    android:layout_width="212dp"
+                    android:layout_height="96dp"
+                    android:src="@drawable/logo"/>
+                
+                <TextView
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="35dp"
+                    android:textColor="@color/colorPrimary"
+                    android:text="Robinsons"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textSize="35dp"
+                    android:textColor="#2877b7"
+                    android:text="Appliances"/>
+
+                <LinearLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginTop="30dp"
+                    android:paddingBottom="30dp">
+
+                    <EditText
+                        android:id="@+id/username"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/group_top"
+                        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@."
+                        android:hint="User ID"
+                        android:imeOptions="actionNext"
+                        android:inputType="text"
+                        android:maxLength="60"
+                        android:maxLines="1"
+                        android:padding="10dp"
+                        />
+
+
+                    <EditText
+                        android:id="@+id/password"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/group_bottom"
+                        android:hint="Password"
+                        android:layout_marginTop="1dp"
+                        android:inputType="textPassword"
+                        android:maxLength="100"
+                        android:maxLines="1"
+                        android:padding="10dp"
+                        />
+
+                    <!--<EditText-->
+                        <!--android:id="@+id/campus"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_marginTop="10dp"-->
+                        <!--android:background="@drawable/group_bottom"-->
+                        <!--android:focusable="false"-->
+                        <!--android:hint="Campus"-->
+                        <!--android:imeActionId="@+id/loginButton"-->
+                        <!--android:imeOptions="actionUnspecified"-->
+                        <!--android:inputType="text"-->
+                        <!--android:maxLength="100"-->
+                        <!--android:maxLines="1"-->
+                        <!--android:padding="10dp"-->
+                        <!--/>-->
+
+                    <Button
+                        android:id="@+id/loginButton"
+                        style="?android:textAppearanceSmall"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="16dp"
+                        android:background="@drawable/button"
+                        android:text="LOGIN"
+                        android:textColor="@color/white"
+                        android:onClick="@{() -> view.onLoginButtonClicked()}"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+</layout>

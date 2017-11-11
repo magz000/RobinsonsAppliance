@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_appliances_list_drawer.xml",
+        "source": "D:\\Backup\\Robinsons Appliance\\app\\src\\main\\res\\menu\\activity_appliances_list_drawer.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\appliances_list.xml",
+        "source": "D:\\Backup\\Robinsons Appliance\\app\\src\\main\\res\\menu\\appliances_list.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\Backup\\Robinsons Appliance\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "D:\\Backup\\Robinsons Appliance\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_tabbed.xml",
+        "source": "D:\\Backup\\Robinsons Appliance\\app\\src\\main\\res\\menu\\menu_tabbed.xml"
+    }
+]

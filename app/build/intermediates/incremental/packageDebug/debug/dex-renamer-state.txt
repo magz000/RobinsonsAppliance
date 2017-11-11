@@ -1,0 +1,4 @@
+#Sat Nov 11 10:00:37 CST 2017
+base.0=D\:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

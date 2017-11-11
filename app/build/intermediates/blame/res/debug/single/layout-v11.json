@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Backup\\Robinsons Appliance\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\SHERWIN\\.android\\build-cache\\9205af8d77dbffc2ff3f705545f8bde131fc4c15\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    }
+]
